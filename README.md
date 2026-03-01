@@ -27,7 +27,7 @@
 
 ### 📂 Избранные проекты
 
-#### 📱 [SplitMaster Simple](https://github.com/TeskiOke/SplitMasterSimple-Release)
+#### 📱 [SplitMaster Simple](https://github.com/TeskiOke/SplitMasterSimple-Release) и [SplitMaster Showcase](https://github.com/TeskiOke/SplitMaster-Showcase)
 *Мобильное приложение мессенджер для совместного учета финансов.*
 - Реализовал разделение чеков в реальном времени через **Firebase Firestore**.
 - Встроил полноценный чат и систему уведомлений через **FCM + Node.js**.
